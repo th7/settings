@@ -1,0 +1,13 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"CoffeeScript",
+		"ERB Snippets",
+		"Git",
+		"Package Control",
+		"Sass",
+		"SCSS"
+	]
+}
